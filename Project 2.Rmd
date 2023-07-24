@@ -1,7 +1,7 @@
 ---
-title: "Project 2"
-author: "innuganti"
-date: "June 18, 2018"
+title: "Statistical Inference Project Work Part 2"
+author: "Jamuna Upreti"
+date: "July 24, 2023"
 output:
   html_document: default
   pdf_document: default
